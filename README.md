@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Financial Applications<br>🌱 I'm currently learning Go, Svelte, Svelte-Kit, AWS<br>💬 Ask me about React, Next, Node. <br>⚡️ Bike rides calm me down. 
+🔭 I'm currently working on Financial Applications.<br>🌱 I'm currently learning Go, Svelte, Svelte-Kit, AWS.<br>💬 Ask me about React, Next, Node. <br>⚡️ Bike rides calm me down. 
 
 
 ## 🌐 Socials:
